@@ -13,7 +13,6 @@ Navodila za namestitev:
     sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/oracle_jdk1.8/bin/java" 1
     sudo update-alternatives --install "/usr/bin/javaws" "javaws" "/usr/lib/jvm/oracle_jdk1.8/bin/javaws" 1
     sudo chmod a+x /usr/bin/java
-    sudo chmod a+x /usr/bin/javac
     sudo chmod a+x /usr/bin/javaws
     ```
 5. zapri in ponovno odpri Firefox
